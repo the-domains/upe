@@ -1,0 +1,28 @@
+name: Upendra Shardanand
+favicon: null
+layout_spectrum: 0.45562799694016576
+typography_spectrum: 0.17110461043193936
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.000700061209499836
+  lightness: 0.42730492958799005
+  saturation: 0.07261637621559203
+  rhythmicContrast: 0.11933384113945067
+purpose: []
