@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Upendra Shardanand]]></title>
+        <description><![CDATA[Upendra Shardanand]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Apr 2016 18:50:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Fun read on the World Building Stackexchange: What kind of historic event would precipitate a worldwide corporate dystopia?</p>]]></description>
+            <link>undefined392d96fe-5d7d-4d6d-9975-b1de7f191c4e/index.html</link>
+            <guid isPermaLink="false">392d96fe-5d7d-4d6d-9975-b1de7f191c4e</guid>
+            <pubDate>Thu, 14 Apr 2016 18:50:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
